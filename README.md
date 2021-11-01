@@ -1,2 +1,3 @@
-# Practicresponsive
-HTML y CSS responsive
+# Practica Codigo Responsive
+## HTML y CSS responsive
+Usaremos CSS para darle el aspecto responsive a HTML.
